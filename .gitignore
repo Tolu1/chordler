@@ -1,0 +1,17 @@
+# Developer tools' files
+.lite_workspace.lua
+playground.js
+playground.css
+playground.html
+.vscode/
+
+# Neutralinojs binaries and builds
+/bin
+/dist
+
+# Neutralinojs client (minified)
+neutralino.js
+
+# Neutralinojs related files
+.storage
+*.log
