@@ -31,6 +31,17 @@ Contributions from the community are **super welcomed**❤️. Be sure to follow
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request 
 
+## Attribution
+
+<!-- app icon -->
+<div><a href="https://github.com/Tolu1/chordler/blob/main/resources/icons/notes.png">App icon:</a> Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https/www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<!-- cute bear -->
+<div><a href="https://github.com/Tolu1/chordler/blob/main/resources/icon/notes.png">Cute bear</a> image from <a href="https://www.vecteezy.com/free-vector/chord">Chord Vectors by Vecteezy</a></div>
+<!-- tooltip -->
+<div>Tooltip by <a href="https://codepen.io/redouglas/pen/yyyXjm">redouglas</a></div>
+
+
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
